@@ -10,3 +10,6 @@ set up guide:
 2.  run install.exe after run jasmppKS
 
 THEN YOUR GOOD TO GO
+
+![Screenshot 2023-12-22 192119](https://github.com/lolpoperman20122/ray-x-v12/assets/135189555/a645c6ea-5686-45db-be9f-fd8f52137556)
+
